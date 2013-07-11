@@ -1,0 +1,4 @@
+MyFirstApp
+==========
+
+Simple Android application
